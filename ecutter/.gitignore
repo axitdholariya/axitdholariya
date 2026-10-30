@@ -2,3 +2,4 @@ node_modules
 dist
 # real ID documents must never be committed
 samples/real/
+*.tsbuildinfo
